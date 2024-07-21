@@ -22,8 +22,7 @@ This application has been built using HTML, CSS, JavaScript, and a weather API.
 **How to Use**
 
 1. **Clone the Repository:**
-https://github.com/devjainofficial/Weather-app.git
-
+(https://github.com/meghanakn473/Weather-Forecasting-Application.git)
 3. **Open `index.html`:**
 Open the `index.html` file in your preferred web browser.
 
