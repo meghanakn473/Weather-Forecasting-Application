@@ -19,6 +19,31 @@ This application has been built using HTML, CSS, JavaScript, and a weather API.
 - **JavaScript:** For implementing interactive elements and fetching data from the weather API.
 - **Weather API:** Utilized to retrieve real-time weather data for the specified locations.
 
-  **Screenshots**
+**How to Use**
+
+1. **Clone the Repository:**
+https://github.com/devjainofficial/Weather-app.git
+
+3. **Open `index.html`:**
+Open the `index.html` file in your preferred web browser.
+
+4. **Enter Location:**
+Type the name of the location you want to check the weather for in the provided input field.
+
+5. **View Weather Information:**
+Press the "Get Weather" button to view the current temperature and other weather parameters for the specified location.
+
+**Contributing**
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
+**Screenshots**
+
+ ![Image](https://github.com/user-attachments/assets/4dd53c66-2efc-4f93-86a5-325a6b7f4926)
+ ![Image](https://github.com/user-attachments/assets/f4cf5122-7410-4510-9c37-61d04ca6116f)
+
+
+
+
 
   
